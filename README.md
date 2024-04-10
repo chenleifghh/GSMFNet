@@ -1,0 +1,1 @@
+We propose a method for surface defect detection of ceramic bearing ball. Our method can effectively identify the location and size of the defect, and provide a new detection method for the surface defect detection of ceramic ball.
