@@ -6,5 +6,6 @@ Table  Experimental comparison of the proposed network GSMF with the network mod
  Figure  Performance evaluation histogram. (Comparison of the four evaluation performance results on the SNCB\SOD dataset for the models compared in Figs. a and b.)
  
 ![sa](https://github.com/chenleifghh/GSMFNet/assets/128015789/ad1195a3-d07c-47ed-909c-3d46444e979d)
+
 ![S](https://github.com/chenleifghh/GSMFNet/assets/128015789/f6789536-d29b-4c68-870b-5f56e19d24b8)
 
